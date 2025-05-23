@@ -60,7 +60,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect </span>with me <span className="purple">0553354247 / email: akaabadeklouis25@gmail.com </span> 
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
