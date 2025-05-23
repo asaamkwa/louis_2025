@@ -27,7 +27,7 @@ function Projects() {
               imgPath={ecommerceImage}
               isBlog={false}
               title="E-Commerce Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="I developed a fully functional e-commerce website that allows users to browse products, add items to a shopping cart, and securely complete purchases. The system includes user authentication, product management, order processing, and responsive design for a seamless experience across devices. It integrates front-end and back-end technologies to deliver a smooth and efficient shopping experience."
               ghLink="https://github.com/asaamkwa"
               demoLink="https://github.com/asaamkwa"
             />
